@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activiti-app/activiti-app.iml" filepath="$PROJECT_DIR$/activiti-app/activiti-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-app-conf/activiti-app-conf.iml" filepath="$PROJECT_DIR$/activiti-app-conf/activiti-app-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-app-logic/activiti-app-logic.iml" filepath="$PROJECT_DIR$/activiti-app-logic/activiti-app-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-app-rest/activiti-app-rest.iml" filepath="$PROJECT_DIR$/activiti-app-rest/activiti-app-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-ui-root.iml" filepath="$PROJECT_DIR$/activiti-ui-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-storage-api/content-storage-api.iml" filepath="$PROJECT_DIR$/content-storage-api/content-storage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-storage-fs/content-storage-fs.iml" filepath="$PROJECT_DIR$/content-storage-fs/content-storage-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/editor-image-generator/editor-image-generator.iml" filepath="$PROJECT_DIR$/editor-image-generator/editor-image-generator.iml" />
+    </modules>
+  </component>
+</project>
